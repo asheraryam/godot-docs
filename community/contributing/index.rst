@@ -12,3 +12,5 @@ Contributing
    documentation_guidelines
    docs_writing_guidelines
    updating_the_class_reference
+   best_practices_for_engine_contributors
+ 
